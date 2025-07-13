@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Fraktion Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../../assets/fonts/PPFraktionMono-Bold.woff') format('woff2');
+  font-display: swap;
+  text-rendering: optimizelegibility;
+}
+
+@font-face {
+  font-family: 'Editorial New';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../../assets/fonts/PPEditorialNew-Regular.woff2') format('woff2');
+  font-display: swap;
+  text-rendering: optimizelegibility; //TODO: check what this mean
+}
