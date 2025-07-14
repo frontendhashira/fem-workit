@@ -1,5 +1,5 @@
 @use '../utils/' as u;
-$base-path: '/fem-workit/assets/images';
+@use '../utils/variables' as *;
 
 .hero {
   position: relative;
